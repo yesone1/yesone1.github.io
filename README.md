@@ -1,10 +1,9 @@
-https://www.free-css.com/free-css-templates
 * To Do List
 
 [🐣MVP🐥]
 ✔️Rename html to Cafe, Pension
-Pension: apply lightbox (like cafe)
-✨Cafe: apply filtering (like Pension)
+✨Pension: apply lightbox (like cafe)
+✔️Cafe: apply filtering (like Pension)
 Get rid of unused codes - refactoring
 Change font for NavBar title
 Change Pension UI to Cafe-Filter UI(better looking)
@@ -60,13 +59,13 @@ Add Instagram, KakaoTalk, NaverBlog
 
 
 
-
-
-
 [Stretch Goal🎈🤺]
 On portfolio-item page, use Bootstrap expand&carousel for each room (add 4 rooms). --- carousel is Stretch Goal
 
 
+
+
+https://www.free-css.com/free-css-templates
 
 
 

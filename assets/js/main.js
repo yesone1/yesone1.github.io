@@ -110,7 +110,7 @@
 
     // Portfolio isotope and filter
     var portfolioIsotope = $('.portfolio-container').isotope({
-        itemSelector: '.portfolio-item-cafe',
+        itemSelector: '.portfolio-item-filter',
         layoutMode: 'fitRows'
     });
 

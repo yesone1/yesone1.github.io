@@ -1004,7 +1004,7 @@ html, body {
     width: auto;
     height: auto;
 }
-.portfolio-item-cafe::after {
+.portfolio-item-filter::after {
     position: relative;
     content: "";
     top: 30px;
@@ -1015,7 +1015,7 @@ html, body {
     z-index: 1;
   }
   
-  .portfolio-item-cafe .portfolio-btn {
+  .portfolio-item-filter .portfolio-btn {
     position: absolute;
     width: 0;
     height: 0;
@@ -1032,7 +1032,7 @@ html, body {
     border-radius: 3px;
   }
   
-  .portfolio-item-cafe:hover .portfolio-btn {
+  .portfolio-item-filter:hover .portfolio-btn {
     opacity: 0.5;
     width: calc(100% - 60px);
     height: calc(100% - 60px);
@@ -1054,7 +1054,7 @@ html, body {
   }
 
 
-  .portfolio-item-cafe {
+  .portfolio-item-filter {
     margin-top: 35px;
 }
 
