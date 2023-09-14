@@ -648,11 +648,18 @@ html, body {
     z-index: 3;
 }
 
-/* Site-logo */
+/* Site-logo Header*/
+@font-face {
+    font-family: 'KCC-Ganpan';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2302@1.0/KCC-Ganpan.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
 .site-title {
     font-size: 18px;
     line-height: 26px;
     color: #ffffff;
+    font-family: 'KCC-Ganpan';
 }
 
 .site-title:hover {
@@ -660,7 +667,7 @@ html, body {
 }
 
 .site-title span {
-    font-weight: 700;
+    font-weight: 10;
 }
 
 .site-title a:hover {
@@ -815,6 +822,7 @@ html, body {
     position: relative;
     margin: 0;
     color: #dad9d9;
+    opacity: 0.9;
 }
 
 .hero-text p {
