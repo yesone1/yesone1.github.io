@@ -4,7 +4,7 @@ https://www.free-css.com/free-css-templates
 [🐣MVP🐥]
 ✔️Rename html to Cafe, Pension
 Pension: apply lightbox (like cafe)
-Cafe: apply filtering (like Pension)
+✨Cafe: apply filtering (like Pension)
 Get rid of unused codes - refactoring
 Change font for NavBar title
 Change Pension UI to Cafe-Filter UI(better looking)
