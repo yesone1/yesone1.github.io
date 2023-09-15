@@ -996,6 +996,22 @@ html, body {
 }
 
 /* Section: Portfolio */
+/* .pension-filter {
+    border: solid salmon 3px;
+}
+.pension-floor {
+    border: solid blue 3px;
+}
+.room-floor {
+    border: solid lightgreen 3px;
+} */
+.line-1 hr {
+    height: 1px;
+    border: 0;
+    background: rgb(90, 90, 90);
+    width: 210px
+}
+
 .portfolio-item-no {
     margin-top: 35px;    
 }
@@ -1256,22 +1272,28 @@ html, body {
     text-align: center;
 }
 
-a.twitter-bg {
-    color: #55acee;
-    border-color: #55acee; 
+a.instagram-bg {
+    color: #E4405F;
+    border-color: #E4405F; 
+
 }
 
-a.twitter-bg:hover {
-    background-color: #55acee;
+a.instagram-bg:hover {
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+
 }
 
-a.facebook-bg {
-  color: #3b5998;
-  border-color: #3b5998;
+a.naver-blog-bg img {
+    width: 18px;
+}
+a.naver-blog-bg {
+  color: #2EB300;
+  border-color: #2EB300;
 }
 
-a.facebook-bg:hover{
-  background-color: #3b5998;
+
+a.naver-blog-bg:hover{
+  background-color: #2EB300;
 }
 
 a.pinterest {

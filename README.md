@@ -22,6 +22,7 @@ Add Cafe summary
 ✔️Change Footer information on portfolio-item page.
 ✔️lick to Expand the photo
 ✔️Photos - Carousel
+put a | divider between filtering options
 
 [Cafe] (과거Blog)
 Add images
@@ -37,6 +38,8 @@ Add JS: when clicked, goes to that image.
 (input)날짜: 달력 선택
 (input)인원수: 1~4
 (input)Message: text
+Install KakaoTalk Message
+Install KakaoMap SDK 
 
 
 [Footer]
@@ -52,8 +55,8 @@ Featured Links: Maybe deactivate "Contact"
 
 Remove Twitter, Facebook, Pinterest, LinkedIn
 ✨Add Instagram 
-Add KakaoTalk
 Add NaverBlog
+Add KakaoTalk
 
 
 [Stretch Goal🎈🤺]
