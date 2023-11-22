@@ -46,7 +46,7 @@ Install KakaoMap SDK
 p tag: add summary
 
 ✔️Keep In Touch: update Fax number
-Add: KakaoMap Link for the address
+✨Add: KakaoMap Link for the address
 
 ✔️Featured Links: Use "Blog" as Pension
 ✔️Featured Links: Use "Porfolio" as Cafe 
@@ -54,8 +54,8 @@ Featured Links: Maybe deactivate "Contact"
 
 
 Remove Twitter, Facebook, Pinterest, LinkedIn
-✨Add Instagram 
-Add NaverBlog
+✔️Add Instagram 
+✔️Add NaverBlog
 Add KakaoTalk
 
 
